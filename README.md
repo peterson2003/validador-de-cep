@@ -1,5 +1,5 @@
 # Buscador de CEP
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/peterson2003/Buscador-De-CEP/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/peterson2003/validador-de-cep/blob/main/LICENSE)
 
 # Sobre o projeto:
 
